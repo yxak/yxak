@@ -2,7 +2,7 @@
 
 ## - 😄 Pronouns: He/Him
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796763103949488129)](https://discord.com/users/796763103949488129)
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796763103949488129)](https://discord.com/users/796763103949488129)
 
 <!--
 **yxak/yxak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
