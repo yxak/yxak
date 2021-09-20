@@ -1,6 +1,5 @@
 # Hello there 👋
 
-## - 🔭 I’m currently working on nothing.. i guess
 ## - 😄 Pronouns: He/Him
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796763103949488129)](https://discord.com/users/796763103949488129)
